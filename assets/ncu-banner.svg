@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="150" viewBox="0 0 760 150" role="img" aria-label="南昌大学 Nanchang University">
+  <defs>
+    <linearGradient id="ncuBlue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#002B5C"/>
+      <stop offset="100%" stop-color="#00539B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="760" height="150" rx="14" fill="url(#ncuBlue)"/>
+  <rect x="0" y="128" width="760" height="6" rx="3" fill="#C8102E"/>
+
+  <!-- 校徽占位：如需使用学校官方校徽，请把官方图片放到 assets/ncu-logo.png -->
+  <g transform="translate(46,34)">
+    <circle cx="40" cy="40" r="39" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+    <circle cx="40" cy="40" r="30" fill="none" stroke="#FFFFFF" stroke-width="1.2" stroke-dasharray="4 4"/>
+    <text x="40" y="52" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif"
+          font-size="28" font-weight="700" fill="#FFFFFF">NCU</text>
+  </g>
+
+  <text x="146" y="72" font-family="Microsoft YaHei, PingFang SC, sans-serif"
+        font-size="42" font-weight="700" fill="#FFFFFF" letter-spacing="6">南昌大学</text>
+  <text x="150" y="102" font-family="Georgia, Times New Roman, serif"
+        font-size="19" fill="#BFD4EC" letter-spacing="3.2">NANCHANG UNIVERSITY</text>
+
+  <text x="716" y="72" text-anchor="end" font-family="Microsoft YaHei, PingFang SC, sans-serif"
+        font-size="15" fill="#BFD4EC">个人作品集</text>
+  <text x="716" y="94" text-anchor="end" font-family="Georgia, serif"
+        font-size="12" fill="#8FAFCE" letter-spacing="1.4">COURSE PORTFOLIO</text>
+</svg>
